@@ -2,17 +2,22 @@ LOCUS       pICH47732_rev      4968 bp    DNA     circular UNA 3-SEP-2009
 COMMENT     This file is created by Vector NTI
             http://www.invitrogen.com/
 FEATURES             Location/Qualifiers
+     Golden_Gate_Cas 30..629
+                     /label="to be replaced by sequence of parts"
      Misc._feature   62..598
                      /vntifkey="21"
                      /label=lacZ
      Misc._feature   complement(657..784)
                      /vntifkey="21"
                      /label="RB short"
+                     /label="RB short"
      Misc._feature   complement(808..2289)
                      /vntifkey="21"
                      /label="RK2 trfa (no Esp3I)"
+                     /label="RK2 trfa (no Esp3I)"
      Misc._feature   2300..3089
                      /vntifkey="21"
+                     /label="pUC ori"
                      /label="pUC ori"
      Replication_ori 2335
                      /vntifkey="33"
@@ -20,6 +25,7 @@ FEATURES             Location/Qualifiers
                      /note=" RNaseH cleavage point "
      CDS             complement(3097..3954)
                      /vntifkey="4"
+                     /label="AP r"
                      /label="AP r"
      Replication_ori complement(4152..4769)
                      /standard_name="oriV"
