@@ -5,20 +5,24 @@ FEATURES             Location/Qualifiers
      Misc._feature   1..615
                      /vntifkey="21"
                      /label="rep (pMB1)"
+                     /label="rep (pMB1)"
      Replication_ori complement(600)
                      /vntifkey="33"
                      /label=ORI
                      /note=" RNaseH cleavage point "
-     Golden_Gate_Par 848..921
+     Golden_Gate_Par 848..922
                      /label=5U-TMV
      5'_UTR          852..918
                      /vntifkey="52"
                      /label="omega (TMV)"
+                     /label="omega (TMV)"
      CDS             1149..2159
                      /vntifkey="4"
                      /label="Sm/Sp no DraIII"
+                     /label="Sm/Sp no DraIII"
      Mutation        2126
                      /vntifkey="62"
+                     /label="G to A"
                      /label="G to A"
 ORIGIN
         1 AAAGGATCTT CTTGAGATCC TTTTTTTCTG CGCGTAATCT GCTGCTTGCA AACAAAAAAA
