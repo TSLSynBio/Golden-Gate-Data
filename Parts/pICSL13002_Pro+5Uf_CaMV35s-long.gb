@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
                      /label=ORI
                      /note=" RNaseH cleavage point "
      Golden_Gate_Par 848..2193
-                     /label=Pro-CaMV35slong+5U-CaMV35s
+                     /label=Pro+5Uf-CaMV35s-long
      Promoter        857..2189
                      /label="CaMV 35 S promoter (long)"
      CDS             2420..3430

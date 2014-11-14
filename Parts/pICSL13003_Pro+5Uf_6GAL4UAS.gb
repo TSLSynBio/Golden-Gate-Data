@@ -1,4 +1,4 @@
-LOCUS       pICSL130003-1      2525 bp    DNA     circular UNA 10-MAR-2009
+LOCUS       pICSL13003      2525 bp    DNA     circular UNA 10-MAR-2009
 COMMENT     This file is created by Vector NTI
             http://www.invitrogen.com/
 FEATURES             Location/Qualifiers
@@ -11,7 +11,7 @@ FEATURES             Location/Qualifiers
                      /label=ORI
                      /note=" RNaseH cleavage point "
      Golden_Gate_Par 848..1129
-                     /label=Pro-6GAL4UAS+5U-6GAL4UAS
+                     /label=Pro+5Uf_6GAL4UAS
      Promoter        852..1125
                      /label=6GAL4UAS
      CDS             1356..2366
